@@ -19,3 +19,9 @@ Google chrome
 
 * TODO surfingkeys
 * TODO other plugins
+
+
+# Coding
+
+## Python
+* [Pint](https://github.com/hgrecco/pint) — flexible library for dimension-safe physical units
